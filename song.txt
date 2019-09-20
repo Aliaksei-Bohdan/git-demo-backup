@@ -6,8 +6,4 @@ fourth string
 fifth string
 sixth string
 
-new text
-lalalala
--------------------
-
-for tag only
+content to be saved
